@@ -1,4 +1,4 @@
-# Devs.Bot_DevTool by DevsUniversity
+# Devs.Bot
 AI driven decision support system for product manjagers, project managers, system analysts and IT architects to distinguish detailed user requirements from weak requirements
     Copyright (C) 2023  Askar Aituov
 
